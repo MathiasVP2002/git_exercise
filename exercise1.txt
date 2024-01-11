@@ -1,0 +1,10 @@
+Make a new repository in github
+Copy the SHH link
+Clone it in Your virtual box
+	git clone <link>
+Go in the new repository you created
+Create  exercise1.txt
+	add changes
+	save
+Git add exercise1.txt
+Git commit –m “first changes to ecersize1txt”
